@@ -1,38 +1,40 @@
 
 
 /*1 utilitis*/
-@import"./utilities/variables";
 
 
+@import"./utilities/mixin.scss";
 
 /*2 base*/
 @import"./base/reset";
-@import"./base/tipografia";
-
-
-
-
+@import"./base/tipografias";
 
 
 
 /*3 layout*/
 @import"./layout/header";
+@import"./layout/-main-index.scss";
+@import"./layout/main-start-dancing";
+@import"./layout/main-contact";
+@import"./layout/workshop-y-eventos";
 
-
-
-
+@import"./layout/main";
+@import"./layout/footer";
 /*4 components*/
 
-
+@import"./components/navbar";
 
 
 
 /*5 mediaq*/
 
+@import"./layout/mediaQ/media320.scss";
 
+@import"./layout/mediaQ/media693.scss";
 
+@import"./layout/mediaQ/media768.scss";
 
-
+@import"./layout/mediaQ/media960.scss";
 
 
 

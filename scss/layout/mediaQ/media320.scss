@@ -1,0 +1,22 @@
+@media (max-width: 320px) {
+    body, .top-section, .courses, .image, .course-box {
+        width: 100%;
+        max-width: 100%;
+    }
+table{font-size: 10px;}
+    .info {
+        width: 100%;  /* Antes era 80%, ahora ocupa el 100% */
+        max-width: 100%;
+        padding: 25px; /* Un poco más de espacio interno */
+    }
+
+    .info p, .course-box p {
+        font-size: 16px; /* Asegura buena legibilidad */
+        line-height: 1.5;
+    }
+
+    .button {
+        font-size: 16px;
+        padding: 12px;
+    }
+}

@@ -1,0 +1,25 @@
+@media (max-width: 960px) {
+    .top-section, .courses {
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        max-width: 100%;
+        padding: 0;
+    }
+    .header-login {
+        
+        margin-top: 100px;
+        margin-right:0px ;
+    }
+    }
+    .image, .info, .course-box {
+        width: 100%;
+    }
+
+    .info {
+        text-align: center;
+    }
+
+    .courses {
+        gap: 10px;
+    }
