@@ -519,53 +519,7 @@ p {
   gap: 10px;
 }
 
-/*$color-primario: rgba(255, 230, 0, 0.699);*/
-/* body {
-    header {
-        div {
-            img {}
-        }
-        div {
-            img {}
-        }
-        nav {
-            ul {
-                li {
-                    a {color: aqua;}
-                }
-                li {
-                    a {}
-                }
-                li {
-                    a {}
-                }
-                li {
-                    a {}
-                }
-                li {
-                    a {}
-                }
-            }
-        }
-        div {
-            button {}
-            a {}
-        }
-    }
-    h1 {}
-    main {
-        section {
-            img {}
-        }
-    }
-    footer {
-        div {
-            a {}
-            p {}
-        }
-    }
-}*/
-/* header {
+
     width: 100%;
     background-color: rgb(148, 114, 2);
     position: relative;
@@ -597,6 +551,4 @@ a{color: aliceblue;
     font-size: 25px;
     font-family: "Roboto", serif;}
 
-}*/
-
-/*# sourceMappingURL=style.css.map */
+}
